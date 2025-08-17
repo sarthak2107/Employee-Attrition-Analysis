@@ -95,7 +95,7 @@ The analysis explores demographic, job-related and financial variables such as g
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Employee-Attrition-Analysis.git
-   
+
 ---
 
 ## 📧 Contact
@@ -103,6 +103,7 @@ The analysis explores demographic, job-related and financial variables such as g
 For any feedback or collaboration opportunities:  
 **Author**: Sarthak Salvi  
 **Email**: [sarthaksalvi2107@gmail.com](mailto:sarthaksalvi2107@gmail.com)
+
 ---
 
 > ⭐ If you found this project insightful, consider starring this repository!
