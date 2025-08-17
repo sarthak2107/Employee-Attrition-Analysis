@@ -90,14 +90,6 @@ The analysis explores demographic, job-related and financial variables such as g
 
 ---
 
-## 📌 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Employee-Attrition-Analysis.git
-
----
-
 ## 📧 Contact
 
 For any feedback or collaboration opportunities:  
